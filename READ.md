@@ -3,6 +3,7 @@
 
 To run the code: 
 
+
 gcc -c ptapso.c -I/usr/local/include
 gcc -c maxphaseutils.c -I/usr/local/include
 gcc -c ptapsotestfunc.c -I/usr/local/include
