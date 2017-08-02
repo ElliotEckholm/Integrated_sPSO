@@ -2,7 +2,7 @@
 
 Please note this code requires installation of GSL.
 
-Here is a link to the manual on this code: https://docs.google.com/document/d/1XM_lJRr-Pl7s0hQ3B079P1-3i4baS64vCT66VE7nGJw/edit?usp=sharing
+Reference the sPSO Manual for how to use and run this code.
 
 
 
